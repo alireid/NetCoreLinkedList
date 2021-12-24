@@ -1,0 +1,12 @@
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/bin/Debug/netcoreapp3.1/NetCoreLinkedList.deps.json
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/bin/Debug/netcoreapp3.1/NetCoreLinkedList.runtimeconfig.json
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/bin/Debug/netcoreapp3.1/NetCoreLinkedList.runtimeconfig.dev.json
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/bin/Debug/netcoreapp3.1/NetCoreLinkedList.dll
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/bin/Debug/netcoreapp3.1/NetCoreLinkedList.pdb
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.AssemblyInfoInputs.cache
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.AssemblyInfo.cs
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.csproj.CoreCompileInputs.cache
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.dll
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.pdb
+/Users/allyreid/Projects/NetCoreLinkedList/NetCoreLinkedList/obj/Debug/netcoreapp3.1/NetCoreLinkedList.genruntimeconfig.cache
